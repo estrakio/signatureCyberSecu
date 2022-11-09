@@ -7,3 +7,8 @@ DOCUMENTATION UTILISE :
 
 INFO : 
 - Le message est volontairement atypique, j'espère qu'il vous plaira ! 
+
+FONCTIONNEMENT (à lancer dans un terminal de commande): 
+- Lancer le programme "CreationCle.py"
+- Lancer le programme "chiffrementMessage.py"
+- Lancer le programme "DechiffrementMessage.py"
